@@ -1,0 +1,10 @@
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\bin\Debug\ListViewBT1.exe.config
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\bin\Debug\ListViewBT1.exe
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\bin\Debug\ListViewBT1.pdb
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\obj\Debug\ListViewBT1.csproj.AssemblyReference.cache
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\obj\Debug\ListViewBT1.Form1.resources
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\obj\Debug\ListViewBT1.Properties.Resources.resources
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\obj\Debug\ListViewBT1.csproj.GenerateResource.cache
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\obj\Debug\ListViewBT1.csproj.CoreCompileInputs.cache
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\obj\Debug\ListViewBT1.exe
+D:\Visual studio ws\C#Winform\ListViewBT1\ListViewBT1\obj\Debug\ListViewBT1.pdb
